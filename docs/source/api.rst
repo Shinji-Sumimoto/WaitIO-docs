@@ -73,7 +73,7 @@ WaitIO MPI Conversion Library API
 | |waitio_create_universe|   | Create WaitIO version of COMM_WORLD|
 |                            |                                    |
 +----------------------------+------------------------------------+
-| |waitio_mpi_gather|         | WaitIO version: MPI_Gather        |
+| |waitio_mpi_gather|        | WaitIO version: MPI_Gather         |
 |                            |                                    |
 +----------------------------+------------------------------------+
 | |waitio_mpi_gatherv|       | WaitIO version: MPI_Gatherv        |
@@ -88,6 +88,6 @@ WaitIO MPI Conversion Library API
 | |waitio_mpi_scatterv|      | WaitIO version: MPI_Scatterv       |
 |                            |                                    |
 +----------------------------+------------------------------------+
-| |waitio_mpi_type_size|      | WaitIO version: MPI_Type_size     |
+| |waitio_mpi_type_size|     | WaitIO version: MPI_Type_size      |
 |                            |                                    |
 +----------------------------+------------------------------------+
