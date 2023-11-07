@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lumache"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
+name = "h3-OpenSYS/WaitIO"
+authors = [{name = "Shinji Sumimoto", email = "sumimoto@cc.u-tokyo.ac.jp"}]
 dynamic = ["version", "description"]
