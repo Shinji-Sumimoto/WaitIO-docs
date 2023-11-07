@@ -20,7 +20,7 @@ Contents
 .. toctree::
 
    usage
-   api
+   WaitIO Basic API
 
 
 
