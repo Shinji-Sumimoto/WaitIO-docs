@@ -6,6 +6,7 @@ API
 
 WaitIO Basic API	     
 ----------------
+
 +----------------------------+------------------------------------+
 | Functions                  | Description                        |
 +----------------------------+------------------------------------+
@@ -43,6 +44,8 @@ WaitIO Basic API
    
 WaitIO MPI Conversion Library API	     
 ----------------------------------
+
+
 +----------------------------+------------------------------------+
 | Functions                  | Description                        |
 +----------------------------+------------------------------------+
@@ -79,7 +82,7 @@ WaitIO MPI Conversion Library API
 | |waitio_mpi_algather|      | WaitIO version: MPI_Allgather      |
 |                            |                                    |
 +----------------------------+------------------------------------+
-| |waitio_mpi_scatter|       | WaitIO version: MPI_Scatter      |
+| |waitio_mpi_scatter|       | WaitIO version: MPI_Scatter        |
 |                            |                                    |
 +----------------------------+------------------------------------+
 | |waitio_mpi_scatterv|      | WaitIO version: MPI_Scatterv       |
