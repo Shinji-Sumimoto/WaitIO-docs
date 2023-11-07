@@ -1,5 +1,5 @@
 WaitIO Basic API
-===
+================
 
 .. autosummary::
    :toctree: generated
@@ -20,8 +20,10 @@ WaitIO Basic API
 |                            |                                    |
 +----------------------------+------------------------------------+
 | |waitio_create_group|      | Create WaitIO communication group  |
-| |waitio_create_group_wank| | with selection function or arrays  |
-|                            |  of MPI rank lists                 |
+|                            | Using selection function           |
++----------------------------+------------------------------------+
+| |waitio_create_group_wank| | Create WaitIO communication group  |
+|                            | Using arrays of MPI rank lists     |
 +----------------------------+------------------------------------+
 | |waitio_group_rank|        | Get WaitIO rank ID in the Group    |
 |                            |                                    |
